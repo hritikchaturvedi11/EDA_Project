@@ -29,6 +29,15 @@ than **1,500 people**.
 
 <br> 
 
+## 7. Conclusion 
+
+- With the help of this notebook we learnt how exploratory data analysis can be carried out using Pandas plotting.
+- Also we have seen making use of packages like __matplotlib and seaborn__ to develop better insights about the data.<br/>
+- We have also seen how __pre-proceesing__ helps in dealing with _missing_ values and irregualities present in the data. We also learnt how to _create new features_ which will in turn help us to better predict the survival. 
+- We also make use of __pandas profiling__ feature to generate an html report containing all the information of the various features present in the dataset.
+- We have seen the impact of columns like _Age, Embarked, Fare, SibSp and Parch_ on the rate of survival.
+- The most important inference drawn from all this analysis is, we get to know what are the __features on which survival is highly positively and negatively correlated with.__ 
+- This analysis will help us to choose which __machine learning model__ we can apply to predict survival of test dataset. 
 
 - The **`titanic.csv`** file contains data for **891** of the real Titanic passengers. 
   - Each row represents one person. 
