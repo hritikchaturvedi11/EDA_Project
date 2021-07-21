@@ -15,7 +15,7 @@ than **1,500 people**.
 
 - Inquiries recommended sweeping changes to maritime regulations, leading to the __International Convention for the Safety of Life at Sea (1914)__, which continues to govern maritime safety.
 
-### 2. Problem Statement
+### Problem Statement
 
 - On __April 15, 1912__, the largest passenger liner ever made collided with an __iceberg__ during her maiden voyage. 
 
@@ -29,7 +29,7 @@ than **1,500 people**.
 
 <br> 
 
-## 7. Conclusion 
+### Conclusion 
 
 - With the help of this notebook we learnt how exploratory data analysis can be carried out using Pandas plotting.
 - Also we have seen making use of packages like __matplotlib and seaborn__ to develop better insights about the data.<br/>
