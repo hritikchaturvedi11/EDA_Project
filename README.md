@@ -7,13 +7,30 @@ than **1,500 people**.
 
 - The ship had received __six warnings__ of sea ice but was travelling at near __maximum speed when the lookouts sighted the iceberg__. 
 
-<br> 
+
 
 - __Unable to turn quickly enough__, the ship suffered a glancing blow that buckled the starboard (right) side and opened __five of sixteen compartments to the sea__. 
 
 - The disaster caused widespread outrage over the lack of lifeboats, lax regulations, and the __unequal treatment__ of the three passenger classes __during the evacuation__. 
 
 - Inquiries recommended sweeping changes to maritime regulations, leading to the __International Convention for the Safety of Life at Sea (1914)__, which continues to govern maritime safety.
+
+- The __titanic.csv__ file contains data for **891** of the real Titanic passengers. 
+  - Each row represents one person. 
+
+  - The columns describe different attributes about the person including whether they survived, their age, their ticket-class, their sex and the fare they paid.
+
+<br> 
+
+- The goal of this analysis is to analyse the data set, explore it answering related questions using data visualization and statistical methods. 
+
+- There are also some questions we would like to answer with Titanic dataset analysis.
+
+  - What is passengers demographic structure analyzed in terms of attributes?
+
+  - What is the overall passengers survival ratio?
+
+  - Which groups have higher chances for survival?
 
 ### Problem Statement
 
@@ -39,19 +56,3 @@ than **1,500 people**.
 - The most important inference drawn from all this analysis is, we get to know what are the __features on which survival is highly positively and negatively correlated with.__ 
 - This analysis will help us to choose which __machine learning model__ we can apply to predict survival of test dataset. 
 
-- The **`titanic.csv`** file contains data for **891** of the real Titanic passengers. 
-  - Each row represents one person. 
-
-  - The columns describe different attributes about the person including whether they survived, their age, their ticket-class, their sex and the fare they paid.
-
-<br> 
-
-- The goal of this analysis is to analyse the data set, explore it answering related questions using data visualization and statistical methods. 
-
-- There are also some questions we would like to answer with Titanic dataset analysis.
-
-  - What is passengers demographic structure analyzed in terms of attributes?
-
-  - What is the overall passengers survival ratio?
-
-  - Which groups have higher chances for survival?
